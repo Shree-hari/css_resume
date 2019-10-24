@@ -2,7 +2,6 @@
   background-color: #E4F9F5;
   position: relative;
   padding-top: 100px;
-  height: 100vh;
 
 }
 body {
@@ -72,9 +71,7 @@ h3{
 }
 .land{
   margin-top: 90px;
-  position:absolute;
-  bottom:0px;
-  left:150px;
+  padding-bottom: 0;
 }
 .underline{
   text-decoration: underline;
@@ -104,6 +101,10 @@ h3{
   background-color: #66BFBF;
   padding: 50px 0 20px;
 }
+.width50{
+  width:50%;
+  text-align:center;
+}
 .copyright{
   color: #EAF6F6;
   font-size: 0.75rem;
@@ -111,9 +112,6 @@ h3{
 .contact-message{
   width: 40%;
   margin: 40px auto 60px;
-}
-.width50{
-  width: 60%;
 }
 .btn {
   background: #11cdd4;
