@@ -103,6 +103,7 @@ h3{
 .width50 {
   width: 50%;
   margin: auto;
+  text-align: centre;
 }
 .bottom-container{
   background-color: #66BFBF;
