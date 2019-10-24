@@ -100,6 +100,9 @@ h3{
 .middle-container{
   margin: 100px 0;
 }
+.width50 {
+  width: 50%;
+}
 .bottom-container{
   background-color: #66BFBF;
   padding: 50px 0 20px;
