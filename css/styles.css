@@ -2,7 +2,6 @@
   background-color: #E4F9F5;
   position: relative;
   padding-top: 100px;
-  height: 90vh;
 
 }
 body {
@@ -72,9 +71,7 @@ h3{
 }
 .land{
   margin-top: 90px;
-  position:absolute;
-  bottom:0px;
-  left:50px;
+  padding-bottom: 0;
 }
 .underline{
   text-decoration: underline;
@@ -99,11 +96,6 @@ h3{
 }
 .middle-container{
   margin: 100px 0;
-}
-.width50 {
-  width: 70%;
-  margin: auto;
-  text-align: centre;
 }
 .bottom-container{
   background-color: #66BFBF;
